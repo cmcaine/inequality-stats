@@ -1,0 +1,4 @@
+library(tidyverse)
+
+all_imd = read_csv("data/File_7_ID_2015_All_ranks__deciles_and_scores_for_the_Indices_of_Deprivation__and_population_denominators.csv")
+View(all_imd)
